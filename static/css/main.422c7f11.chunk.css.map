@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACE,iBACF,CAEA,SACE,UACF","file":"main.422c7f11.chunk.css","sourcesContent":[".hide {\n  visibility: hidden;\n}\n\n.visible {\n  color: black;\n}\n"]}
